@@ -1,4 +1,4 @@
-#Landing Page Example
+# Landing Page Example
 
 This is a website mock-up of a landing page for a bank.
 
